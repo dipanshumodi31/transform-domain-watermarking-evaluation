@@ -126,8 +126,8 @@ pip install numpy matplotlib opencv-python pywt pandas scikit-image
 ## 📂 Repository Structure
 
 ```
-Untitled.ipynb      # Main notebook
-README.md           # This file
+transform-watermarking-comparison.ipynb   # Main notebook
+README.md                                 # This file
 ```
 
 ---
