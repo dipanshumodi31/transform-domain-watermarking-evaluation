@@ -1,4 +1,4 @@
-# Comparative Analysis of Manual vs Built-in Transform Techniques for Image Watermarking
+# 🚀Comparative Analysis of Manual vs Built-in Transform Techniques for Image Watermarking
 
 This notebook presents a comprehensive comparative study of **three major transform-domain techniques**—**DWT (Discrete Wavelet Transform)**, **DFT (Discrete Fourier Transform)**, and **DCT (Discrete Cosine Transform)**—for digital image watermarking. It evaluates both **manual implementations** and **library-based (built-in) functions**, analyzing their behavior in terms of **image fidelity**, **computational efficiency**, and **visual impact**.
 
